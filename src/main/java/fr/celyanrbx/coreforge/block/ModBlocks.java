@@ -23,10 +23,6 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.of()
                     .strength(4f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
 
-    public static final DeferredBlock<Block> RAW_STEEL_BLOCK = registerBlock("raw_steel_block",
-            () -> new Block(BlockBehaviour.Properties.of()
-                    .strength(4f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
-
     public static final DeferredBlock<Block> STEEL_ORE = registerBlock("steel_ore",
             () -> new DropExperienceBlock(UniformInt.of(2, 4),
                     BlockBehaviour.Properties.of().strength(3f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
