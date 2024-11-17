@@ -8,6 +8,6 @@
   "block.coreforge.end_steel_ore": "End Steel Ore",
   "block.coreforge.nether_steel_ore": "Nether Steel Ore",
 
-  "creativetab.coreforge.steel_items": "Coreforge",
-  "creativetab.coreforge.steel_blocks": "Coreforge Blocks"
+  "creativetab.coreforge.coreforge_items": "Coreforge",
+  "creativetab.coreforge.coreforge_blocks": "Coreforge Blocks"
 }
