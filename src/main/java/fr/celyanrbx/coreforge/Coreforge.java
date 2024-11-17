@@ -1,5 +1,6 @@
 package fr.celyanrbx.coreforge;
 
+import fr.celyanrbx.coreforge.block.ModBlocks;
 import fr.celyanrbx.coreforge.item.ModItems;
 import org.slf4j.Logger;
 
@@ -50,6 +51,7 @@ public class Coreforge {
         NeoForge.EVENT_BUS.register(this);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
