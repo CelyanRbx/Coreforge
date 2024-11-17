@@ -16,17 +16,17 @@ public class ModCreativeModeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TAB =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, Coreforge.MOD_ID);
 
-    public static final Supplier<CreativeModeTab> STEEL_ITEMS_TAB = CREATIVE_MODE_TAB.register("steel_items_tab",
+    public static final Supplier<CreativeModeTab> COREFORGE_ITEMS_TAB = CREATIVE_MODE_TAB.register("coreforge_items_tab",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.STEEL.get()))
-                    .title(Component.translatable("creativetab.coreforge.steel_items"))
+                    .title(Component.translatable("creativetab.coreforge.coreforge_items"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.STEEL);
                     }).build());
 
-    public static final Supplier<CreativeModeTab> STEEL_BLOCK_TAB = CREATIVE_MODE_TAB.register("steel_blocks_tab",
+    public static final Supplier<CreativeModeTab> COREFORGE_BLOCK_TAB = CREATIVE_MODE_TAB.register("coreforge_blocks_tab",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModBlocks.STEEL_BLOCK))
-                    .withTabsBefore(ResourceLocation.fromNamespaceAndPath(Coreforge.MOD_ID, "steel_items_tab"))
-                    .title(Component.translatable("creativetab.coreforge.steel_blocks"))
+                    .withTabsBefore(ResourceLocation.fromNamespaceAndPath(Coreforge.MOD_ID, "coreforge_items_tab"))
+                    .title(Component.translatable("creativetab.coreforge.coreforge_blocks"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModBlocks.STEEL_BLOCK);
                         output.accept(ModBlocks.RAW_STEEL_BLOCK);
