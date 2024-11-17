@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "coreforge:block/steel_ore"
+    }
+  }
+}
