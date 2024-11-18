@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "coreforge:steel_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "coreforge:steel"
+  }
+}
