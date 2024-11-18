@@ -29,7 +29,6 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("creativetab.coreforge.coreforge_blocks"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModBlocks.STEEL_BLOCK);
-                        output.accept(ModBlocks.RAW_STEEL_BLOCK);
                         output.accept(ModBlocks.STEEL_ORE);
                         output.accept(ModBlocks.DEEPSLATE_STEEL_ORE);
                         output.accept(ModBlocks.END_STEEL_ORE);

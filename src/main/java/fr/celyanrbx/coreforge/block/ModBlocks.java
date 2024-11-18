@@ -29,7 +29,7 @@ public class ModBlocks {
 
     public static final DeferredBlock<Block> DEEPSLATE_STEEL_ORE = registerBlock("deepslate_steel_ore",
             () -> new DropExperienceBlock(UniformInt.of(2, 4),
-                    BlockBehaviour.Properties.of().strength(3f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+                    BlockBehaviour.Properties.of().strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
 
     public static final DeferredBlock<Block> END_STEEL_ORE = registerBlock("end_steel_ore",
             () -> new DropExperienceBlock(UniformInt.of(2, 4),
@@ -37,7 +37,7 @@ public class ModBlocks {
 
     public static final DeferredBlock<Block> NETHER_STEEL_ORE = registerBlock("nether_steel_ore",
             () -> new DropExperienceBlock(UniformInt.of(2, 4),
-                    BlockBehaviour.Properties.of().strength(3f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+                    BlockBehaviour.Properties.of().strength(3f).requiresCorrectToolForDrops().sound(SoundType.NETHERRACK)));
 
 
     private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier<T> block) {
