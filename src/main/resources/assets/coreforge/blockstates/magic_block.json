@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "coreforge:block/magic_block"
+    }
+  }
+}

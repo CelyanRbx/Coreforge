@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "   ",
+    "DOD",
+    "OOO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "coreforge:magic_block"
+  }
+}
