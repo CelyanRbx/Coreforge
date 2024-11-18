@@ -1,11 +1,13 @@
 {
   "item.coreforge.steel": "Steel",
+  "item.coreforge.chisel": "Chisel",
 
   "block.coreforge.steel_block": "Steel Block",
   "block.coreforge.steel_ore": "Steel Ore",
   "block.coreforge.deepslate_steel_ore": "Deepslate Steel Ore",
   "block.coreforge.end_steel_ore": "End Steel Ore",
   "block.coreforge.nether_steel_ore": "Nether Steel Ore",
+  "block.coreforge.magic_block": "Magic Block",
 
   "creativetab.coreforge.coreforge_items": "Coreforge",
   "creativetab.coreforge.coreforge_blocks": "Coreforge Blocks"
