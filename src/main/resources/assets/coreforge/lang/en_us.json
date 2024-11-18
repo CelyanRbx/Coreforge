@@ -10,5 +10,9 @@
   "block.coreforge.magic_block": "Magic Block",
 
   "creativetab.coreforge.coreforge_items": "Coreforge",
-  "creativetab.coreforge.coreforge_blocks": "Coreforge Blocks"
+  "creativetab.coreforge.coreforge_blocks": "Coreforge Blocks",
+
+  "tooltip.coreforge.magic_block.tooltip": "This Block is very §9MAGICAL§r",
+  "tooltip.coreforge.chisel.shift_down": "This Item can chisel Blocks into Bricks",
+  "tooltip.coreforge.chisel": "Press §eShift§r for more Information"
 }
