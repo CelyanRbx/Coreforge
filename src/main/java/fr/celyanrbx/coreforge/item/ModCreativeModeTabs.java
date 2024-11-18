@@ -21,6 +21,8 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("creativetab.coreforge.coreforge_items"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.STEEL);
+
+                        output.accept(ModItems.CHISEL);
                     }).build());
 
     public static final Supplier<CreativeModeTab> COREFORGE_BLOCK_TAB = CREATIVE_MODE_TAB.register("coreforge_blocks_tab",
@@ -33,6 +35,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.DEEPSLATE_STEEL_ORE);
                         output.accept(ModBlocks.END_STEEL_ORE);
                         output.accept(ModBlocks.NETHER_STEEL_ORE);
+                        output.accept(ModBlocks.MAGIC_BLOCK);
 
 
                     }).build());

@@ -1,6 +1,7 @@
 package fr.celyanrbx.coreforge.block;
 
 import fr.celyanrbx.coreforge.Coreforge;
+import fr.celyanrbx.coreforge.block.custom.MagicBlock;
 import fr.celyanrbx.coreforge.item.ModItems;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
@@ -38,6 +39,9 @@ public class ModBlocks {
     public static final DeferredBlock<Block> NETHER_STEEL_ORE = registerBlock("nether_steel_ore",
             () -> new DropExperienceBlock(UniformInt.of(2, 4),
                     BlockBehaviour.Properties.of().strength(3f).requiresCorrectToolForDrops().sound(SoundType.NETHERRACK)));
+
+    public static final DeferredBlock<Block> MAGIC_BLOCK = registerBlock("magic_block",
+            () -> new MagicBlock(BlockBehaviour.Properties.of().strength(2f).requiresCorrectToolForDrops()));
 
 
     private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier<T> block) {
