@@ -1,15 +1,14 @@
 {
   "parent": "minecraft:block/cube",
   "render_type": "cutout_mipped",
-    "textures": {
-        "particle": "coreforge:block/magic_block_bottom",
-        "bottom": "coreforge:block/magic_block_bottom",
-        "top": "coreforge:block/magic_block_top",
-        "side": "coreforge:block/magic_block_side"
+  "textures": {
+    "particle": "coreforge:block/magic_block_bottom",
+    "bottom": "coreforge:block/magic_block_bottom",
+    "top": "coreforge:block/magic_block_top",
+    "side": "coreforge:block/magic_block_side"
   },
   "elements": [
-    {
-      "from": [ 0, 0, 0 ],
+    {   "from": [ 0, 0, 0 ],
       "to": [ 16, 12, 16 ],
       "faces": {
         "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom", "cullface": "down" },

@@ -1,6 +1,7 @@
 package fr.celyanrbx.coreforge.block.custom;
 
 import fr.celyanrbx.coreforge.item.ModItems;
+import fr.celyanrbx.coreforge.util.ModTags;
 import net.minecraft.core.BlockPos;
 import net.minecraft.network.chat.Component;
 import net.minecraft.sounds.SoundEvents;
@@ -58,6 +59,10 @@ public class MagicBlock extends Block {
         }
 
         super.stepOn(level, pos, state, entity);
+    }
+
+    private boolean isValidItem(ItemStack item) {
+        return item.is(ModTags.Items.TRANSFORMABLE_ITEMS);
     }
 
     @Override

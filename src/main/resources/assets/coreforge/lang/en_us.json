@@ -1,6 +1,11 @@
 {
   "item.coreforge.steel": "Steel",
   "item.coreforge.chisel": "Chisel",
+  "item.coreforge.steel_sword": "Steel Sword",
+  "item.coreforge.steel_pickaxe": "Steel Pickaxe",
+  "item.coreforge.steel_shovel": "Steel Shovel",
+  "item.coreforge.steel_axe": "Steel Axe",
+  "item.coreforge.steel_hoe": "Steel Hoe",
 
   "block.coreforge.steel_block": "Steel Block",
   "block.coreforge.steel_ore": "Steel Ore",
@@ -8,8 +13,9 @@
   "block.coreforge.end_steel_ore": "End Steel Ore",
   "block.coreforge.nether_steel_ore": "Nether Steel Ore",
   "block.coreforge.magic_block": "Magic Block",
+  "block.coreforge.steel_lamp": "Steel Lamp",
 
-  "creativetab.coreforge.coreforge_items": "Coreforge",
+  "creativetab.coreforge.coreforge_items": "Coreforge Items",
   "creativetab.coreforge.coreforge_blocks": "Coreforge Blocks",
 
   "tooltip.coreforge.magic_block.tooltip": "This Block is very §9MAGICAL§r",

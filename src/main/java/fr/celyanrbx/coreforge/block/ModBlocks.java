@@ -2,12 +2,14 @@ package fr.celyanrbx.coreforge.block;
 
 import fr.celyanrbx.coreforge.Coreforge;
 import fr.celyanrbx.coreforge.block.custom.MagicBlock;
+import fr.celyanrbx.coreforge.block.custom.SteelLampBlock;
 import fr.celyanrbx.coreforge.item.ModItems;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.DropExperienceBlock;
+import net.minecraft.world.level.block.RedstoneLampBlock;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.neoforged.bus.api.IEventBus;
@@ -42,6 +44,10 @@ public class ModBlocks {
 
     public static final DeferredBlock<Block> MAGIC_BLOCK = registerBlock("magic_block",
             () -> new MagicBlock(BlockBehaviour.Properties.of().strength(2f).requiresCorrectToolForDrops()));
+
+    public static final DeferredBlock<Block> STEEL_LAMP = registerBlock("steel_lamp",
+            () -> new SteelLampBlock(BlockBehaviour.Properties.of().strength(2f)
+                    .requiresCorrectToolForDrops().lightLevel(state -> state.getValue(SteelLampBlock.LIT) ? 15 : 0).sound(SoundType.GLASS)));
 
 
     private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier<T> block) {

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "coreforge:block/nether_steel_ore"
-  }
-}

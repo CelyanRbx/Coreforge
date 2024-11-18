@@ -21,7 +21,11 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("creativetab.coreforge.coreforge_items"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.STEEL);
-
+                        output.accept(ModItems.STEEL_SWORD);
+                        output.accept(ModItems.STEEL_PICKAXE);
+                        output.accept(ModItems.STEEL_SHOVEL);
+                        output.accept(ModItems.STEEL_AXE);
+                        output.accept(ModItems.STEEL_HOE);
                         output.accept(ModItems.CHISEL);
                     }).build());
 
@@ -36,8 +40,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.END_STEEL_ORE);
                         output.accept(ModBlocks.NETHER_STEEL_ORE);
                         output.accept(ModBlocks.MAGIC_BLOCK);
-
-
+                        output.accept(ModBlocks.STEEL_LAMP);
                     }).build());
 
 
