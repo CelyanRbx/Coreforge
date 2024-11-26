@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "coreforge:block/nether_steel_ore"
+    }
+  }
+}

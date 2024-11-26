@@ -1,6 +1,7 @@
 package fr.celyanrbx.coreforge.block;
 
 import fr.celyanrbx.coreforge.Coreforge;
+import fr.celyanrbx.coreforge.block.custom.Crusher;
 import fr.celyanrbx.coreforge.block.custom.MagicBlock;
 import fr.celyanrbx.coreforge.block.custom.SteelLampBlock;
 import fr.celyanrbx.coreforge.item.ModItems;
@@ -48,6 +49,9 @@ public class ModBlocks {
     public static final DeferredBlock<Block> STEEL_LAMP = registerBlock("steel_lamp",
             () -> new SteelLampBlock(BlockBehaviour.Properties.of().strength(2f)
                     .requiresCorrectToolForDrops().lightLevel(state -> state.getValue(SteelLampBlock.LIT) ? 15 : 0).sound(SoundType.GLASS)));
+
+    public static final DeferredBlock<Block> CRUSHER = registerBlock("crusher",
+            () -> new Crusher(BlockBehaviour.Properties.of().strength(2f).requiresCorrectToolForDrops()));
 
 
     private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier<T> block) {

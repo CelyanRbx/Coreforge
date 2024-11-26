@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "coreforge:block/crusher",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "coreforge:block/crusher",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "coreforge:block/crusher"
+    },
+    "facing=west": {
+      "model": "coreforge:block/crusher",
+      "y": 90
+    }
+  }
+}

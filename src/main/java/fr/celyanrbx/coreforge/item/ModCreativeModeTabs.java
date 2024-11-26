@@ -26,6 +26,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.STEEL_SHOVEL);
                         output.accept(ModItems.STEEL_AXE);
                         output.accept(ModItems.STEEL_HOE);
+                        output.accept(ModItems.STEEL_HAMMER);
                         output.accept(ModItems.CHISEL);
                     }).build());
 
@@ -41,6 +42,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.NETHER_STEEL_ORE);
                         output.accept(ModBlocks.MAGIC_BLOCK);
                         output.accept(ModBlocks.STEEL_LAMP);
+                        output.accept(ModBlocks.CRUSHER);
                     }).build());
 
 

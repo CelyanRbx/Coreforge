@@ -1,0 +1,7 @@
+// 1.21.1	2024-11-18T19:21:19.5320366	Tags for minecraft:item mod id coreforge
+f7aedce4cda8aefc104578623c957a66baa96dc4 data/coreforge/tags/item/transformable_items.json
+db9c118237781d43931161a01012e182db103b96 data/minecraft/tags/item/axes.json
+9aabd205bcf23e2108e8c5027a51ca801c1cf7d5 data/minecraft/tags/item/hoes.json
+847d74740c030b763ca2c9a24c2631327834c5f0 data/minecraft/tags/item/pickaxes.json
+d91df0cbcae0d4e33e6c668438332efe4555f926 data/minecraft/tags/item/shovels.json
+65782ba4ac98c5e1452b5007213057d0c2e1e6eb data/minecraft/tags/item/swords.json

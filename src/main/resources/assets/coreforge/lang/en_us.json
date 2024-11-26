@@ -6,6 +6,7 @@
   "item.coreforge.steel_shovel": "Steel Shovel",
   "item.coreforge.steel_axe": "Steel Axe",
   "item.coreforge.steel_hoe": "Steel Hoe",
+  "item.coreforge.steel_hammer": "Steel Hammer",
 
   "block.coreforge.steel_block": "Steel Block",
   "block.coreforge.steel_ore": "Steel Ore",
@@ -14,6 +15,7 @@
   "block.coreforge.nether_steel_ore": "Nether Steel Ore",
   "block.coreforge.magic_block": "Magic Block",
   "block.coreforge.steel_lamp": "Steel Lamp",
+  "block.coreforge.crusher": "Crusher",
 
   "creativetab.coreforge.coreforge_items": "Coreforge Items",
   "creativetab.coreforge.coreforge_blocks": "Coreforge Blocks",

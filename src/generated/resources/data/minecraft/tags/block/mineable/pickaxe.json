@@ -6,6 +6,7 @@
     "coreforge:end_steel_ore",
     "coreforge:nether_steel_ore",
     "coreforge:magic_block",
-    "coreforge:steel_lamp"
+    "coreforge:steel_lamp",
+    "coreforge:crusher"
   ]
 }

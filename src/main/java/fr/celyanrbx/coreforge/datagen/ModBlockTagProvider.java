@@ -26,7 +26,8 @@ public class ModBlockTagProvider extends BlockTagsProvider {
                 .add(ModBlocks.END_STEEL_ORE.get())
                 .add(ModBlocks.NETHER_STEEL_ORE.get())
                 .add(ModBlocks.MAGIC_BLOCK.get())
-                .add(ModBlocks.STEEL_LAMP.get());
+                .add(ModBlocks.STEEL_LAMP.get())
+                .add(ModBlocks.CRUSHER.get());
 
         tag(BlockTags.NEEDS_IRON_TOOL)
                 .add(ModBlocks.STEEL_BLOCK.get())
@@ -34,7 +35,8 @@ public class ModBlockTagProvider extends BlockTagsProvider {
                 .add(ModBlocks.DEEPSLATE_STEEL_ORE.get())
                 .add(ModBlocks.END_STEEL_ORE.get())
                 .add(ModBlocks.NETHER_STEEL_ORE.get())
-                .add(ModBlocks.MAGIC_BLOCK.get());
+                .add(ModBlocks.MAGIC_BLOCK.get())
+                .add(ModBlocks.CRUSHER.get());
 
         tag(BlockTags.NEEDS_DIAMOND_TOOL)
                 .add(ModBlocks.STEEL_LAMP.get());

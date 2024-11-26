@@ -1,0 +1,6 @@
+// 1.21.1	2024-11-23T14:46:26.2283274	Tags for minecraft:block mod id coreforge
+f1f9d54094cf8f11ff47cdf1beb91375cafa931c data/coreforge/tags/block/incorrect_for_steel_tool.json
+3f54162070f834277d0ddd8b24f335617504b2ec data/coreforge/tags/block/needs_steel_tool.json
+571ebbddb020c3e3afad74764f43217ecc049c5c data/minecraft/tags/block/mineable/pickaxe.json
+5341619c6192de39e9f77d33b46e835ddd165648 data/minecraft/tags/block/needs_diamond_tool.json
+0388bee5468f8fc52727f821f496be03146a791c data/minecraft/tags/block/needs_iron_tool.json

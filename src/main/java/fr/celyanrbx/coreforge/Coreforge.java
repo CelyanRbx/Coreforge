@@ -1,25 +1,19 @@
 package fr.celyanrbx.coreforge;
 
 import fr.celyanrbx.coreforge.block.ModBlocks;
+import fr.celyanrbx.coreforge.init.ModEntities;
+import fr.celyanrbx.coreforge.init.ModMenus;
 import fr.celyanrbx.coreforge.item.ModCreativeModeTabs;
 import fr.celyanrbx.coreforge.item.ModItems;
+import net.minecraft.core.Registry;
+import net.minecraft.resources.ResourceLocation;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.core.registries.BuiltInRegistries;
-import net.minecraft.core.registries.Registries;
-import net.minecraft.network.chat.Component;
-import net.minecraft.world.food.FoodProperties;
-import net.minecraft.world.item.BlockItem;
-import net.minecraft.world.item.CreativeModeTab;
-import net.minecraft.world.item.CreativeModeTabs;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.level.block.state.BlockBehaviour;
-import net.minecraft.world.level.material.MapColor;
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.bus.api.SubscribeEvent;
@@ -32,10 +26,6 @@ import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
 import net.neoforged.neoforge.event.server.ServerStartingEvent;
-import net.neoforged.neoforge.registries.DeferredBlock;
-import net.neoforged.neoforge.registries.DeferredHolder;
-import net.neoforged.neoforge.registries.DeferredItem;
-import net.neoforged.neoforge.registries.DeferredRegister;
 
 // The value here should match an entry in the META-INF/neoforge.mods.toml file
 @Mod(Coreforge.MOD_ID)
@@ -56,6 +46,10 @@ public class Coreforge {
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
 
+        ModMenus.register(modEventBus);
+        ModEntities.register(modEventBus);
+
+
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
 
@@ -74,6 +68,12 @@ public class Coreforge {
         LOGGER.info(Config.magicNumberIntroduction + Config.magicNumber);
 
         Config.items.forEach((item) -> LOGGER.info("ITEM >> {}", item.toString()));
+
+        // Enregistrer RecipeType
+        Registry.register(Registry.RECIPE_TYPE, new ResourceLocation(MOD_ID, "crusherrecipetype"), CrusherRecipeType.INSTANCE);
+
+        // Enregistrer RecipeSerializer
+        Registry.register(Registry.RECIPE_SERIALIZER, new ResourceLocation(MOD_ID, "my_recipe"), CrusherRecipeSerializer.INSTANCE);
     }
 
     // Add the example block item to the building blocks tab

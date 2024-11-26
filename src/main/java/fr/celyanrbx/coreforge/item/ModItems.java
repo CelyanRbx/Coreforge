@@ -2,6 +2,7 @@ package fr.celyanrbx.coreforge.item;
 
 import fr.celyanrbx.coreforge.Coreforge;
 import fr.celyanrbx.coreforge.item.custom.ChiselItem;
+import fr.celyanrbx.coreforge.item.custom.HammerItem;
 import net.minecraft.world.item.*;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
@@ -31,6 +32,9 @@ public class ModItems {
     public static final DeferredItem<HoeItem> STEEL_HOE = ITEMS.register("steel_hoe",
             () -> new HoeItem(ModToolTiers.STEEL, new Item.Properties()
                     .attributes(HoeItem.createAttributes(ModToolTiers.STEEL, 0F, -3.0f))));
+    public static final DeferredItem<HammerItem> STEEL_HAMMER = ITEMS.register("steel_hammer",
+            () -> new HammerItem(ModToolTiers.STEEL, new Item.Properties()
+                    .attributes(PickaxeItem.createAttributes(ModToolTiers.STEEL, 7F, -3.5f))));
 
 
     public static void register(IEventBus eventBus) {
