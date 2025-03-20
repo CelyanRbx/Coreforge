@@ -2,18 +2,18 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "create:encased_chain_drive"
+      "item": "create:spout"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "create:andesite_casing"
+      "item": "create:copper_casing"
     },
     {
       "count": 1,
-      "item": "create:zinc_nugget"
+      "item": "minecraft:dried_kelp"
     }
   ]
 }

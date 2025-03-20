@@ -2,18 +2,18 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "create:encased_chain_drive"
+      "item": "create:black_toolbox"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "create:andesite_casing"
+      "item": "create:brown_toolbox"
     },
     {
       "count": 1,
-      "item": "create:zinc_nugget"
+      "item": "minecraft:black_dye"
     }
   ]
 }

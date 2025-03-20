@@ -2,7 +2,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "create:encased_chain_drive"
+      "item": "create:portable_storage_interface"
     }
   ],
   "processingTime": 400,
@@ -13,7 +13,7 @@
     },
     {
       "count": 1,
-      "item": "create:zinc_nugget"
+      "item": "create:chute"
     }
   ]
 }

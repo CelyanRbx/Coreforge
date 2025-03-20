@@ -2,7 +2,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "create:encased_chain_drive"
+      "item": "create:desk_bell"
     }
   ],
   "processingTime": 400,
@@ -13,7 +13,7 @@
     },
     {
       "count": 1,
-      "item": "create:zinc_nugget"
+      "item": "create:golden_sheet"
     }
   ]
 }
