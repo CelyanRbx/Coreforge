@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 1,
-      "item": "minecraft:oak_slab"
+      "id": "minecraft:oak_slab"
     },
     {
       "count": 1,
-      "item": "create:brass_casing"
+      "id": "create:brass_casing"
     },
     {
       "count": 1,
-      "item": "create:electron_tube"
+      "id": "create:electron_tube"
     }
   ]
 }

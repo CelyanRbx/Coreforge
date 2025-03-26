@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:spruce_trapdoor"
+      "item": "minecraft:spruce_trapdoor"
     }
   ],
   "processingTime": 400,

@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 3,
-      "item": "create:copper_sheet"
+      "id": "create:copper_sheet"
     },
     {
       "count": 1,
-      "item": "minecraft:lightning_rod"
+      "id": "minecraft:lightning_rod"
     },
     {
       "count": 1,
-      "item": "minecraft:redstone"
+      "id": "minecraft:redstone"
     }
   ]
 }

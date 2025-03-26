@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:fletching_table"
+      "item": "minecraft:fletching_table"
     }
   ],
   "processingTime": 400,

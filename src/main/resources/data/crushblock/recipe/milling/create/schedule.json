@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "create:sturdy_sheet"
+      "id": "create:sturdy_sheet"
     },
     {
       "count": 1,
-      "item": "minecraft:paper"
+      "id": "minecraft:paper"
     }
   ]
 }

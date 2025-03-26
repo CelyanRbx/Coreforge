@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:golden_boots"
+      "item": "minecraft:golden_boots"
     }
   ],
   "processingTime": 400,

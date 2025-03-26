@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:brewing_stand"
+      "item": "minecraft:brewing_stand"
     }
   ],
   "processingTime": 400,

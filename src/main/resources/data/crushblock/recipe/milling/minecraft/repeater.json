@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:repeater"
+      "item": "minecraft:repeater"
     }
   ],
   "processingTime": 400,

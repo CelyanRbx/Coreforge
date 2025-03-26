@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id: "minecraft:birch_trapdoor"
+      "item": "minecraft:birch_trapdoor"
     }
   ],
   "processingTime": 400,

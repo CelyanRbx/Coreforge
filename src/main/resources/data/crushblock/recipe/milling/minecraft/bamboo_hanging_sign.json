@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:bamboo_hanging_sign"
+      "item": "minecraft:bamboo_hanging_sign"
     }
   ],
   "processingTime": 400,

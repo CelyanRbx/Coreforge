@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "create:electron_tube"
+      "id": "create:electron_tube"
     },
     {
       "count": 2,
-      "item": "create:andesite_alloy"
+      "id": "create:andesite_alloy"
     }
   ]
 }

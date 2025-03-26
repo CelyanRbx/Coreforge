@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:smithing_table"
+      "item": "minecraft:smithing_table"
     }
   ],
   "processingTime": 400,

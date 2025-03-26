@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:golden_hoe"
+      "item": "minecraft:golden_hoe"
     }
   ],
   "processingTime": 400,

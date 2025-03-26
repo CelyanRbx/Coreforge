@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "create:wheat_flour"
+      "id": "create:wheat_flour"
     },
     {
       "count": 1,
-      "item": "minecraft:water_bucket"
+      "id": "minecraft:water_bucket"
     }
   ]
 }

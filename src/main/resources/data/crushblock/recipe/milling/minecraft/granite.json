@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:granite"
+      "item": "minecraft:granite"
     }
   ],
   "processingTime": 400,

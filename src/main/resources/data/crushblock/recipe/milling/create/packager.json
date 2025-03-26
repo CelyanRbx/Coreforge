@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 4,
-      "item": "minecraft:iron_ingot"
+      "id": "minecraft:iron_ingot"
     },
     {
       "count": 2,
-      "item": "minecraft:redstone"
+      "id": "minecraft:redstone"
     },
     {
       "count": 1,
-      "item": "create:cardboard_block"
+      "id": "create:cardboard_block"
     }
   ]
 }

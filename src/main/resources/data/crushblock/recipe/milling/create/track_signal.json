@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "create:railway_casing"
+      "id": "create:railway_casing"
     },
     {
       "count": 1,
-      "item": "create:electron_tube"
+      "id": "create:electron_tube"
     }
   ]
 }

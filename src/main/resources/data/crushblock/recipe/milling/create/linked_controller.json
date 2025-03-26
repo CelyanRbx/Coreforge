@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "create:redstone_link"
+      "id": "create:redstone_link"
     },
     {
       "count": 6,
-      "item": "minecraft:oak_button"
+      "id": "minecraft:oak_button"
     }
   ]
 }

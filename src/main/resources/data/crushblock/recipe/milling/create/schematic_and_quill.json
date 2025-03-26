@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "create:empty_schematic"
+      "id": "create:empty_schematic"
     },
     {
       "count": 1,
-      "item": "minecraft:feather"
+      "id": "minecraft:feather"
     }
   ]
 }

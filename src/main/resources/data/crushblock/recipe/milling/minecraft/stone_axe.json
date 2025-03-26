@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:stone_axe"
+      "item": "minecraft:stone_axe"
     }
   ],
   "processingTime": 400,

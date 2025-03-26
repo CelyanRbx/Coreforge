@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "create:copper_casing"
+      "id": "create:copper_casing"
     },
     {
       "count": 1,
-      "item": "minecraft:dried_kelp"
+      "id": "minecraft:dried_kelp"
     }
   ]
 }

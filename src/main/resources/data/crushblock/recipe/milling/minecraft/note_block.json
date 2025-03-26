@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:note_block"
+      "item": "minecraft:note_block"
     }
   ],
   "processingTime": 400,

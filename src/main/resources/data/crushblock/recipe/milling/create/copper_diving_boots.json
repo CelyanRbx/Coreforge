@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 4,
-      "item": "minecraft:copper_ingot"
+      "id": "minecraft:copper_ingot"
     },
     {
       "count": 2,
-      "item": "create:andesite_alloy"
+      "id": "create:andesite_alloy"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:iron_horse_armor"
+      "item": "minecraft:iron_horse_armor"
     }
   ],
   "processingTime": 400,

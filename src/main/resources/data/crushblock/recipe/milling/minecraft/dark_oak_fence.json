@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:dark_oak_fence"
+      "item": "minecraft:dark_oak_fence"
     }
   ],
   "processingTime": 400,

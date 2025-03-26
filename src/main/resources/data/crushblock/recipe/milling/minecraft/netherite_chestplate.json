@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:netherite_chestplate"
+      "item": "minecraft:netherite_chestplate"
     }
   ],
   "processingTime": 400,

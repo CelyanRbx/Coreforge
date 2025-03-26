@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 2,
-      "item": "create:iron_sheet"
+      "id": "create:iron_sheet"
     },
     {
       "count": 1,
-      "item": "minecraft:barrel"
+      "id": "minecraft:barrel"
     }
   ]
 }

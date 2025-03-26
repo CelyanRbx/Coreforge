@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:acacia_fence"
+      "item": "minecraft:acacia_fence"
     }
   ],
   "processingTime": 400,

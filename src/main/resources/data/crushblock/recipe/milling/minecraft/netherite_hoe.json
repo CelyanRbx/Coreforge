@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:netherite_hoe"
+      "item": "minecraft:netherite_hoe"
     }
   ],
   "processingTime": 400,

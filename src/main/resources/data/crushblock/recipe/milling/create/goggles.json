@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 2,
-      "item": "minecraft:glass"
+      "id": "minecraft:glass"
     },
     {
       "count": 1,
-      "item": "minecraft:string"
+      "id": "minecraft:string"
     },
     {
       "count": 1,
-      "item": "create:golden_sheet"
+      "id": "create:golden_sheet"
     }
   ]
 }

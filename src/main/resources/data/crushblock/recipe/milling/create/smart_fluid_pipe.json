@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 1,
-      "item": "create:brass_sheet"
+      "id": "create:brass_sheet"
     },
     {
       "count": 1,
-      "item": "create:fluid_pipe"
+      "id": "create:fluid_pipe"
     },
     {
       "count": 1,
-      "item": "create:electron_tube"
+      "id": "create:electron_tube"
     }
   ]
 }

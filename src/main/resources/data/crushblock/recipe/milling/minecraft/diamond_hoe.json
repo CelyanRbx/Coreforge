@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:diamond_hoe"
+      "item": "minecraft:diamond_hoe"
     }
   ],
   "processingTime": 400,

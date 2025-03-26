@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 1,
-      "item": "create:copper_casing"
+      "id": "create:copper_casing"
     },
     {
       "count": 1,
-      "item": "minecraft:dried_kelp_block"
+      "id": "minecraft:dried_kelp_block"
     },
     {
       "count": 1,
-      "item": "create:copper_sheet"
+      "id": "create:copper_sheet"
     }
   ]
 }

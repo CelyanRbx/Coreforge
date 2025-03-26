@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:wooden_shovel"
+      "item": "minecraft:wooden_shovel"
     }
   ],
   "processingTime": 400,

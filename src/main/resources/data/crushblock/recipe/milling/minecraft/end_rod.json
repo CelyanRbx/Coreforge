@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:end_rod"
+      "item": "minecraft:end_rod"
     }
   ],
   "processingTime": 400,

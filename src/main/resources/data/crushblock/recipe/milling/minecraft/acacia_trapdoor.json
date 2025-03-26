@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:acacia_trapdoor"
+      "item": "minecraft:acacia_trapdoor"
     }
   ],
   "processingTime": 400,

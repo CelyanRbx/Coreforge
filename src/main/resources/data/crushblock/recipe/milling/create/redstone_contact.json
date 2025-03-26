@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 5,
-      "item": "minecraft:andesite"
+      "id": "minecraft:andesite"
     },
     {
       "count": 1,
-      "item": "create:iron_sheet"
+      "id": "create:iron_sheet"
     },
     {
       "count": 1,
-      "item": "minecraft:redstone"
+      "id": "minecraft:redstone"
     }
   ]
 }

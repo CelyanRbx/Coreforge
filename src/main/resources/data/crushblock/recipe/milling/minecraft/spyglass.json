@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:spyglass"
+      "item": "minecraft:spyglass"
     }
   ],
   "processingTime": 400,

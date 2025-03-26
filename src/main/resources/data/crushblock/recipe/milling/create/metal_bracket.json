@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 3,
-      "item": "minecraft:iron_nugget"
+      "id": "minecraft:iron_nugget"
     },
     {
       "count": 2,
-      "item": "minecraft:iron_ingot"
+      "id": "minecraft:iron_ingot"
     },
     {
       "count": 1,
-      "item": "create:andesite_alloy"
+      "id": "create:andesite_alloy"
     }
   ]
 }

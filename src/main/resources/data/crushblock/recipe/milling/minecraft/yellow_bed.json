@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id: "minecraft:yellow_bed"
+      "item": "minecraft:yellow_bed"
     }
   ],
   "processingTime": 400,

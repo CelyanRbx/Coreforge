@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:bamboo_fence_gate"
+      "item": "minecraft:bamboo_fence_gate"
     }
   ],
   "processingTime": 400,

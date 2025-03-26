@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 1,
-      "item": "minecraft:white_wool"
+      "id": "minecraft:white_wool"
     },
     {
       "count": 2,
-      "item": "minecraft:stick"
+      "id": "minecraft:stick"
     },
     {
       "count": 1,
-      "item": "create:andesite_alloy"
+      "id": "create:andesite_alloy"
     }
   ]
 }

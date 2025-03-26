@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:enchanting_table"
+      "item": "minecraft:enchanting_table"
     }
   ],
   "processingTime": 400,

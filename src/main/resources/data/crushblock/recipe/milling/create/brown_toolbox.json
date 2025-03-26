@@ -9,19 +9,19 @@
   "results": [
     {
       "count": 1,
-      "item": "create:cogwheel"
+      "id": "create:cogwheel"
     },
     {
       "count": 1,
-      "item": "minecraft:chest"
+      "id": "minecraft:chest"
     },
     {
       "count": 1,
-      "item": "create:golden_sheet"
+      "id": "create:golden_sheet"
     },
     {
       "count": 1,
-      "item": "minecraft:leather"
+      "id": "minecraft:leather"
     }
   ]
 }

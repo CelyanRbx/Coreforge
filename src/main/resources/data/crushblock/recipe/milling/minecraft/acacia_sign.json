@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:acacia_sign"
+      "item": "minecraft:acacia_sign"
     }
   ],
   "processingTime": 400,

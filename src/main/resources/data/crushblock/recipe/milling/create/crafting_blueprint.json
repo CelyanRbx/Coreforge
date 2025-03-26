@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "minecraft:painting"
+      "id": "minecraft:painting"
     },
     {
       "count": 1,
-      "item": "minecraft:crafting_table"
+      "id": "minecraft:crafting_table"
     }
   ]
 }

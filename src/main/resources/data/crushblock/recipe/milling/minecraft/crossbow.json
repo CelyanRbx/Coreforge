@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:crossbow"
+      "item": "minecraft:crossbow"
     }
   ],
   "processingTime": 400,

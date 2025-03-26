@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 5,
-      "item": "create:iron_sheet"
+      "id": "create:iron_sheet"
     },
     {
       "count": 2,
-      "item": "create:andesite_alloy"
+      "id": "create:andesite_alloy"
     }
   ]
 }

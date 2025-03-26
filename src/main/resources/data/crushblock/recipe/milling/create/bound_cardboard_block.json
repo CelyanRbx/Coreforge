@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "create:cardboard_block"
+      "id": "create:cardboard_block"
     },
     {
       "count": 1,
-      "item": "minecraft:string"
+      "id": "minecraft:string"
     }
   ]
 }

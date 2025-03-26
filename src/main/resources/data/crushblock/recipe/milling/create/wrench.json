@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 3,
-      "item": "create:golden_sheet"
+      "id": "create:golden_sheet"
     },
     {
       "count": 1,
-      "item": "minecraft:stick"
+      "id": "minecraft:stick"
     },
     {
       "count": 1,
-      "item": "create:cogwheel"
+      "id": "create:cogwheel"
     }
   ]
 }

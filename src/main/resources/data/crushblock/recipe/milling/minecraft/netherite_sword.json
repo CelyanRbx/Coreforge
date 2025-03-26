@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:netherite_sword"
+      "item": "minecraft:netherite_sword"
     }
   ],
   "processingTime": 400,

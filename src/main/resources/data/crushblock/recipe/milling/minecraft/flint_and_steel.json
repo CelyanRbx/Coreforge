@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:flint_and_steel"
+      "item": "minecraft:flint_and_steel"
     }
   ],
   "processingTime": 400,

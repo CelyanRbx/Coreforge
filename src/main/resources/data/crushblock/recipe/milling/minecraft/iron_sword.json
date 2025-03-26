@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:iron_sword"
+      "item": "minecraft:iron_sword"
     }
   ],
   "processingTime": 400,

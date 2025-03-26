@@ -9,19 +9,19 @@
   "results": [
     {
       "count": 2,
-      "item": "minecraft:oak_log"
+      "id": "minecraft:oak_log"
     },
     {
       "count": 2,
-      "item": "minecraft:iron_block"
+      "id": "minecraft:iron_block"
     },
     {
       "count": 2,
-      "item": "minecraft:smooth_stone"
+      "id": "minecraft:smooth_stone"
     },
     {
       "count": 1,
-      "item": "minecraft:dispenser"
+      "id": "minecraft:dispenser"
     }
   ]
 }

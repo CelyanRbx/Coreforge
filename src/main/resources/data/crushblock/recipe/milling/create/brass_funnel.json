@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 1,
-      "item": "create:electron_tube"
+      "id": "create:electron_tube"
     },
     {
       "count": 1,
-      "item": "create:brass_ingot"
+      "id": "create:brass_ingot"
     },
     {
       "count": 1,
-      "item": "minecraft:dried_kelp"
+      "id": "minecraft:dried_kelp"
     }
   ]
 }

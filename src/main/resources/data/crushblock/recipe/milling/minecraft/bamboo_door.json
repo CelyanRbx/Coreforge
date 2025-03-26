@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:bamboo_door"
+      "item": "minecraft:bamboo_door"
     }
   ],
   "processingTime": 400,

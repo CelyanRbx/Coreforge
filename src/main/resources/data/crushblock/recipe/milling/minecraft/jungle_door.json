@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:jungle_door"
+      "item": "minecraft:jungle_door"
     }
   ],
   "processingTime": 400,

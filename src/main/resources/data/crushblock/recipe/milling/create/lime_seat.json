@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "minecraft:lime_wool"
+      "id": "minecraft:lime_wool"
     },
     {
       "count": 1,
-      "item": "minecraft:oak_slab"
+      "id": "minecraft:oak_slab"
     }
   ]
 }

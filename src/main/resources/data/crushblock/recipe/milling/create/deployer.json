@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 1,
-      "item": "create:andesite_casing"
+      "id": "create:andesite_casing"
     },
     {
       "count": 1,
-      "item": "create:electron_tube"
+      "id": "create:electron_tube"
     },
     {
       "count": 1,
-      "item": "create:brass_hand"
+      "id": "create:brass_hand"
     }
   ]
 }

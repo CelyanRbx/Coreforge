@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:piston"
+      "item": "minecraft:piston"
     }
   ],
   "processingTime": 400,

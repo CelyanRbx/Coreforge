@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 1,
-      "item": "minecraft:purple_dye"
+      "id": "minecraft:purple_dye"
     },
     {
       "count": 1,
-      "item": "minecraft:barrel"
+      "id": "minecraft:barrel"
     },
     {
       "count": 1,
-      "item": "create:andesite_alloy"
+      "id": "create:andesite_alloy"
     }
   ]
 }

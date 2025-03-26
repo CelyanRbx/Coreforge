@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:shulker_box"
+      "item": "minecraft:shulker_box"
     }
   ],
   "processingTime": 400,

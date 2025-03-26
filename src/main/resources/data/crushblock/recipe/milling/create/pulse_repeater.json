@@ -9,19 +9,19 @@
   "results": [
     {
       "count": 1,
-      "item": "minecraft:redstone"
+      "id": "minecraft:redstone"
     },
     {
       "count": 1,
-      "item": "create:brass_sheet"
+      "id": "create:brass_sheet"
     },
     {
       "count": 1,
-      "item": "minecraft:redstone_torch"
+      "id": "minecraft:redstone_torch"
     },
     {
       "count": 3,
-      "item": "minecraft:andesite"
+      "id": "minecraft:andesite"
     }
   ]
 }

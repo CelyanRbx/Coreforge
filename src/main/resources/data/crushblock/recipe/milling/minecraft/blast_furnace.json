@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:blast_furnace"
+      "item": "minecraft:blast_furnace"
     }
   ],
   "processingTime": 400,

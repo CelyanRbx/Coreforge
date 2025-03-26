@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 1,
-      "item": "create:brass_casing"
+      "id": "create:brass_casing"
     },
     {
       "count": 1,
-      "item": "minecraft:dried_kelp_block"
+      "id": "minecraft:dried_kelp_block"
     },
     {
       "count": 1,
-      "item": "create:iron_sheet"
+      "id": "create:iron_sheet"
     }
   ]
 }

@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 1,
-      "item": "create:cogwheel"
+      "id": "create:cogwheel"
     },
     {
       "count": 1,
-      "item": "create:brass_casing"
+      "id": "create:brass_casing"
     },
     {
       "count": 1,
-      "item": "create:electron_tube"
+      "id": "create:electron_tube"
     }
   ]
 }

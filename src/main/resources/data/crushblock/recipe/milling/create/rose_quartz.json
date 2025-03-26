@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "minecraft:quartz"
+      "id": "minecraft:quartz"
     },
     {
       "count": 8,
-      "item": "minecraft:redstone"
+      "id": "minecraft:redstone"
     }
   ]
 }

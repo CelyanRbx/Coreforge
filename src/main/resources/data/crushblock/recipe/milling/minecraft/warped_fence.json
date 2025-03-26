@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:warped_fence"
+      "item": "minecraft:warped_fence"
     }
   ],
   "processingTime": 400,

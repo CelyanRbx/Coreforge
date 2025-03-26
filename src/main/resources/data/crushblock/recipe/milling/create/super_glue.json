@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 2,
-      "item": "minecraft:slime_ball"
+      "id": "minecraft:slime_ball"
     },
     {
       "count": 1,
-      "item": "create:iron_sheet"
+      "id": "create:iron_sheet"
     },
     {
       "count": 1,
-      "item": "minecraft:iron_nugget"
+      "id": "minecraft:iron_nugget"
     }
   ]
 }

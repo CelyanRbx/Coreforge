@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:andesite"
+      "item": "minecraft:andesite"
     }
   ],
   "processingTime": 400,

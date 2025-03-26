@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:smoker"
+      "item": "minecraft:smoker"
     }
   ],
   "processingTime": 400,

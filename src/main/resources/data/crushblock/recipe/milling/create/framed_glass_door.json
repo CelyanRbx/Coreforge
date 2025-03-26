@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "minecraft:oak_door"
+      "id": "minecraft:oak_door"
     },
     {
       "count": 1,
-      "item": "create:framed_glass"
+      "id": "create:framed_glass"
     }
   ]
 }

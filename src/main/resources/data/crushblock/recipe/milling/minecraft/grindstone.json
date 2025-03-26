@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:grindstone"
+      "item": "minecraft:grindstone"
     }
   ],
   "processingTime": 400,

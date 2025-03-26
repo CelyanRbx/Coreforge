@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:acacia_hanging_sign"
+      "item": "minecraft:acacia_hanging_sign"
     }
   ],
   "processingTime": 400,

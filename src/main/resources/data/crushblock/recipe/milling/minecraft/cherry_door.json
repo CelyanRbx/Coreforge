@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:cherry_door"
+      "item": "minecraft:cherry_door"
     }
   ],
   "processingTime": 400,

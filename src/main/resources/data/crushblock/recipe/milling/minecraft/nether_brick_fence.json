@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:nether_brick_fence"
+      "item": "minecraft:nether_brick_fence"
     }
   ],
   "processingTime": 400,

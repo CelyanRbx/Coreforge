@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:crimson_door"
+      "item": "minecraft:crimson_door"
     }
   ],
   "processingTime": 400,

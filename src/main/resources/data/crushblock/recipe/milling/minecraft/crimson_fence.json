@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:crimson_fence"
+      "item": "minecraft:crimson_fence"
     }
   ],
   "processingTime": 400,

@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:calibrated_sculk_sensor"
+      "item": "minecraft:calibrated_sculk_sensor"
     }
   ],
   "processingTime": 400,

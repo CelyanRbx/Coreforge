@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:blue_bed"
+      "item": "minecraft:blue_bed"
     }
   ],
   "processingTime": 400,

@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:iron_helmet"
+      "item": "minecraft:iron_helmet"
     }
   ],
   "processingTime": 400,

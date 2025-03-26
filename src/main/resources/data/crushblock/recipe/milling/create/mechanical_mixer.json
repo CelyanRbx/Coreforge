@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 1,
-      "item": "create:cogwheel"
+      "id": "create:cogwheel"
     },
     {
       "count": 1,
-      "item": "create:andesite_casing"
+      "id": "create:andesite_casing"
     },
     {
       "count": 1,
-      "item": "create:whisk"
+      "id": "create:whisk"
     }
   ]
 }

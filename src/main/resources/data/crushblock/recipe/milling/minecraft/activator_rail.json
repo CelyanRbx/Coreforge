@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:activator_rail"
+      "item": "minecraft:activator_rail"
     }
   ],
   "processingTime": 400,

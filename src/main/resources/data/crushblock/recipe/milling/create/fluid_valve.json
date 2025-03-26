@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "create:iron_sheet"
+      "id": "create:iron_sheet"
     },
     {
       "count": 1,
-      "item": "create:fluid_pipe"
+      "id": "create:fluid_pipe"
     }
   ]
 }

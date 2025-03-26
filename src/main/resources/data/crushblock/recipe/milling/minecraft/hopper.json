@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:hopper"
+      "item": "minecraft:hopper"
     }
   ],
   "processingTime": 400,

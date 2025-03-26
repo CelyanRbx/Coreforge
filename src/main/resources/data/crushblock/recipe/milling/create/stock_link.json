@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "create:transmitter"
+      "id": "create:transmitter"
     },
     {
       "count": 1,
-      "item": "create:item_vault"
+      "id": "create:item_vault"
     }
   ]
 }

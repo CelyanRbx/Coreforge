@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:sea_lantern"
+      "item": "minecraft:sea_lantern"
     }
   ],
   "processingTime": 400,

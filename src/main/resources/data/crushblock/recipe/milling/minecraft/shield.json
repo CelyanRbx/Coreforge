@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:shield"
+      "item": "minecraft:shield"
     }
   ],
   "processingTime": 400,

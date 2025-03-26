@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "create:brown_toolbox"
+      "id": "create:brown_toolbox"
     },
     {
       "count": 1,
-      "item": "minecraft:gray_dye"
+      "id": "minecraft:gray_dye"
     }
   ]
 }

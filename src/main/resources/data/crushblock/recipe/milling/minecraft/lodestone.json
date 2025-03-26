@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:lodestone"
+      "item": "minecraft:lodestone"
     }
   ],
   "processingTime": 400,

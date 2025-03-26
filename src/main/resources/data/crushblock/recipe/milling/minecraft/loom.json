@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:loom"
+      "item": "minecraft:loom"
     }
   ],
   "processingTime": 400,

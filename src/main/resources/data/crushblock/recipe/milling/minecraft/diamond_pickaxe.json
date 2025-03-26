@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:diamond_pickaxe"
+      "item": "minecraft:diamond_pickaxe"
     }
   ],
   "processingTime": 400,

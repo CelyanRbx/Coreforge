@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:wooden_axe"
+      "item": "minecraft:wooden_axe"
     }
   ],
   "processingTime": 400,

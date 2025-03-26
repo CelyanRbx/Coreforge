@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:diamond_helmet"
+      "item": "minecraft:diamond_helmet"
     }
   ],
   "processingTime": 400,

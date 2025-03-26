@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "create:rose_quartz"
+      "id": "create:rose_quartz"
     },
     {
       "count": 1,
-      "item": "create:iron_sheet"
+      "id": "create:iron_sheet"
     }
   ]
 }

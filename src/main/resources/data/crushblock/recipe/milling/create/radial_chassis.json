@@ -1,6 +1,6 @@
 {
-  "type": "create:milling,\n  \"ingredients\": [g",
-
+  "type": "create:milling",
+  "ingredients": [
     {
       "item": "create:radial_chassis"
     }
@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 2,
-      "item": "create:andesite_alloy"
+      "id": "create:andesite_alloy"
     },
     {
       "count": 3,
-      "item": "minecraft:oak_log"
+      "id": "minecraft:oak_log"
     }
   ]
 }

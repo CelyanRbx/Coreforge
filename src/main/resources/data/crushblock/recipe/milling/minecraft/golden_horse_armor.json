@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:golden_horse_armor"
+      "item": "minecraft:golden_horse_armor"
     }
   ],
   "processingTime": 400,

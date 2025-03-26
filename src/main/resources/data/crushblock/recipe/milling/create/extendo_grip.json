@@ -9,19 +9,19 @@
   "results": [
     {
       "count": 1,
-      "item": "create:precision_mechanism"
+      "id": "create:precision_mechanism"
     },
     {
       "count": 6,
-      "item": "minecraft:stick"
+      "id": "minecraft:stick"
     },
     {
       "count": 1,
-      "item": "create:brass_ingot"
+      "id": "create:brass_ingot"
     },
     {
       "count": 1,
-      "item": "create:brass_hand"
+      "id": "create:brass_hand"
     }
   ]
 }

@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 1,
-      "item": "minecraft:redstone"
+      "id": "minecraft:redstone"
     },
     {
       "count": 1,
-      "item": "create:stock_link"
+      "id": "create:stock_link"
     },
     {
       "count": 1,
-      "item": "minecraft:iron_ingot"
+      "id": "minecraft:iron_ingot"
     }
   ]
 }

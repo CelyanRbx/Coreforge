@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:leather_boots"
+      "item": "minecraft:leather_boots"
     }
   ],
   "processingTime": 400,

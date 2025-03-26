@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "": "minecraft:dark_oak_door"
+      "item": "minecraft:dark_oak_door"
     }
   ],
   "processingTime": 400,

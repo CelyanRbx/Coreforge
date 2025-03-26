@@ -2,14 +2,14 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:oak_fence"
+      "item": "minecraft:oak_fence"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 4,
-      "id: "minecraft:oak_planks"
+      "id": "minecraft:oak_planks"
     },
     {
       "count": 2,

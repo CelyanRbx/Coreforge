@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 4,
-      "item": "create:iron_sheet"
+      "id": "create:iron_sheet"
     },
     {
       "count": 1,
-      "item": "minecraft:netherrack"
+      "id": "minecraft:netherrack"
     }
   ]
 }

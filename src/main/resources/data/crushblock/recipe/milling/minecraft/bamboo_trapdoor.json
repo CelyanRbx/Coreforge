@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:bamboo_trapdoor"
+      "item": "minecraft:bamboo_trapdoor"
     }
   ],
   "processingTime": 400,

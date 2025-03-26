@@ -9,15 +9,15 @@
   "results": [
     {
       "count": 1,
-      "item": "create:polished_rose_quartz"
+      "id": "create:polished_rose_quartz"
     },
     {
       "count": 1,
-      "item": "create:zinc_ingot"
+      "id": "create:zinc_ingot"
     },
     {
       "count": 1,
-      "item": "minecraft:redstone"
+      "id": "minecraft:redstone"
     }
   ]
 }

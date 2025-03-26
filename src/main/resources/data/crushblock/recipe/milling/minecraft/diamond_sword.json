@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:diamond_sword"
+      "item": "minecraft:diamond_sword"
     }
   ],
   "processingTime": 400,

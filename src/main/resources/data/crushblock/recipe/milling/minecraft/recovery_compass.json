@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:recovery_compass"
+      "item": "minecraft:recovery_compass"
     }
   ],
   "processingTime": 400,

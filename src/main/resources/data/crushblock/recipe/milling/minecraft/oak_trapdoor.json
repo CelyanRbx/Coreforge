@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:oak_trapdoor"
+      "item": "minecraft:oak_trapdoor"
     }
   ],
   "processingTime": 400,

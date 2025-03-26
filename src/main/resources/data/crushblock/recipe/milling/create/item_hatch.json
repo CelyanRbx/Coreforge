@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "create:andesite_alloy"
+      "id": "create:andesite_alloy"
     },
     {
       "count": 1,
-      "item": "minecraft:iron_trapdoor"
+      "id": "minecraft:iron_trapdoor"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:iron_door"
+      "item": "minecraft:iron_door"
     }
   ],
   "processingTime": 400,

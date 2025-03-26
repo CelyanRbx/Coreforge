@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:sticky_piston"
+      "item": "minecraft:sticky_piston"
     }
   ],
   "processingTime": 400,

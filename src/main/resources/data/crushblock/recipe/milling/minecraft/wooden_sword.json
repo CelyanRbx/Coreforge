@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:wooden_sword"
+      "item": "minecraft:wooden_sword"
     }
   ],
   "processingTime": 400,

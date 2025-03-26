@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "minecraft:white_wool"
+      "id": "minecraft:white_wool"
     },
     {
       "count": 1,
-      "item": "create:zinc_nugget"
+      "id": "create:zinc_nugget"
     }
   ]
 }

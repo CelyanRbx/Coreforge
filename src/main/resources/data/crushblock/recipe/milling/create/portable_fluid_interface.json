@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "create:copper_casing"
+      "id": "create:copper_casing"
     },
     {
       "count": 1,
-      "item": "create:chute"
+      "id": "create:chute"
     }
   ]
 }

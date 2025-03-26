@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id: "minecraft:golden_pickaxe"
+      "item": "minecraft:golden_pickaxe"
     }
   ],
   "processingTime": 400,

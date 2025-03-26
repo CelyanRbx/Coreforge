@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "minecraft:iron_bars"
+      "id": "minecraft:iron_bars"
     },
     {
       "count": 1,
-      "item": "create:copper_casing"
+      "id": "create:copper_casing"
     }
   ]
 }

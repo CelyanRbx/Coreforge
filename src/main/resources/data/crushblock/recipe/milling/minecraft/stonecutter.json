@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:stonecutter"
+      "item": "minecraft:stonecutter"
     }
   ],
   "processingTime": 400,

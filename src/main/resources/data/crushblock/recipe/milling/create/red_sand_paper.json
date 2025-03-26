@@ -9,11 +9,11 @@
   "results": [
     {
       "count": 1,
-      "item": "minecraft:red_sand"
+      "id": "minecraft:red_sand"
     },
     {
       "count": 1,
-      "item": "minecraft:paper"
+      "id": "minecraft:paper"
     }
   ]
 }

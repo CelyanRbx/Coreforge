@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:golden_shovel"
+      "item": "minecraft:golden_shovel"
     }
   ],
   "processingTime": 400,

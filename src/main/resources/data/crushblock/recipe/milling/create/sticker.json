@@ -9,19 +9,19 @@
   "results": [
     {
       "count": 1,
-      "item": "minecraft:slime_ball"
+      "id": "minecraft:slime_ball"
     },
     {
       "count": 2,
-      "item": "create:andesite_alloy"
+      "id": "create:andesite_alloy"
     },
     {
       "count": 1,
-      "item": "minecraft:redstone"
+      "id": "minecraft:redstone"
     },
     {
       "count": 2,
-      "item": "minecraft:andesite"
+      "id": "minecraft:andesite"
     }
   ]
 }

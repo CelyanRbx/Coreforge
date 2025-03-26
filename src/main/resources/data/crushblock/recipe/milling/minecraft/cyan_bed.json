@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:cyan_bed"
+      "item": "minecraft:cyan_bed"
     }
   ],
   "processingTime": 400,

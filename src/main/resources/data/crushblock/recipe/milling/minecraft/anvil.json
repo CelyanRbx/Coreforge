@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "id": "minecraft:anvil"
+      "item": "minecraft:anvil"
     }
   ],
   "processingTime": 400,
