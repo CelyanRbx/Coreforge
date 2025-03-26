@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:recovery_compass"
+      "id": "minecraft:recovery_compass"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "minecraft:compass"
+      "id": "minecraft:compass"
     },
     {
       "count": 8,
-      "item": "minecraft:echo_shard"
+      "id": "minecraft:echo_shard"
     }
   ]
 }

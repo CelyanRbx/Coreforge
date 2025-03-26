@@ -2,22 +2,22 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:brush"
+      "id": "minecraft:brush"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "minecraft:copper_ingot"
+      "id": "minecraft:copper_ingot"
     },
     {
       "count": 1,
-      "item": "minecraft:stick"
+      "id": "minecraft:stick"
     },
     {
       "count": 1,
-      "item": "minecraft:feather"
+      "id": "minecraft:feather"
     }
   ]
 }

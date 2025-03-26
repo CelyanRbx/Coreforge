@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:jukebox"
+      "id": "minecraft:jukebox"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 8,
-      "item": "minecraft:oak_planks"
+      "id": "minecraft:oak_planks"
     },
     {
       "count": 1,
-      "item": "minecraft:diamond"
+      "id": "minecraft:diamond"
     }
   ]
 }

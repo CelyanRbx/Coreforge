@@ -2,22 +2,22 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:beacon"
+      "id": "minecraft:beacon"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 5,
-      "item": "minecraft:glass"
+      "id": "minecraft:glass"
     },
     {
       "count": 3,
-      "item": "minecraft:obsidian"
+      "id": "minecraft:obsidian"
     },
     {
       "count": 1,
-      "item": "minecraft:nether_star"
+      "id": "minecraft:nether_star"
     }
   ]
 }

@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:stone_sword"
+      "id": "minecraft:stone_sword"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 2,
-      "item": "minecraft:cobblestone"
+      "id": "minecraft:cobblestone"
     },
     {
       "count": 1,
-      "item": "minecraft:stick"
+      "id": "minecraft:stick"
     }
   ]
 }

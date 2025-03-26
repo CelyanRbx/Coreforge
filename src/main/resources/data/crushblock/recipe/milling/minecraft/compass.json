@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:compass"
+      "id": "minecraft:compass"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 4,
-      "item": "minecraft:iron_ingot"
+      "id": "minecraft:iron_ingot"
     },
     {
       "count": 1,
-      "item": "minecraft:redstone"
+      "id": "minecraft:redstone"
     }
   ]
 }

@@ -2,26 +2,26 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:crossbow"
+      "id": "minecraft:crossbow"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 2,
-      "item": "minecraft:string"
+      "id": "minecraft:string"
     },
     {
       "count": 3,
-      "item": "minecraft:stick"
+      "id": "minecraft:stick"
     },
     {
       "count": 1,
-      "item": "minecraft:tripwire_hook"
+      "id": "minecraft:tripwire_hook"
     },
     {
       "count": 1,
-      "item": "minecraft:iron_ingot"
+      "id": "minecraft:iron_ingot"
     }
   ]
 }

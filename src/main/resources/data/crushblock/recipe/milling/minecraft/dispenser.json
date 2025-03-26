@@ -2,22 +2,22 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:dispenser"
+      "id": "minecraft:dispenser"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 7,
-      "item": "minecraft:cobblestone"
+      "id": "minecraft:cobblestone"
     },
     {
       "count": 1,
-      "item": "minecraft:bow"
+      "id": "minecraft:bow"
     },
     {
       "count": 1,
-      "item": "minecraft:redstone"
+      "id": "minecraft:redstone"
     }
   ]
 }

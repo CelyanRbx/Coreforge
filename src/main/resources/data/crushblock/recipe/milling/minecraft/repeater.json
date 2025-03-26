@@ -2,22 +2,22 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:repeater"
+      "id": "minecraft:repeater"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 3,
-      "item": "minecraft:stone"
+      "id": "minecraft:stone"
     },
     {
       "count": 2,
-      "item": "minecraft:redstone_torch"
+      "id": "minecraft:redstone_torch"
     },
     {
       "count": 1,
-      "item": "minecraft:redstone"
+      "id": "minecraft:redstone"
     }
   ]
 }

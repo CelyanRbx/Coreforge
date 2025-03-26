@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:nether_brick_fence"
+      "id": "minecraft:nether_brick_fence"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 4,
-      "item": "minecraft:nether_bricks"
+      "id": "minecraft:nether_bricks"
     },
     {
       "count": 2,
-      "item": "minecraft:nether_brick"
+      "id": "minecraft:nether_brick"
     }
   ]
 }

@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:calibrated_sculk_sensor"
+      "id": "minecraft:calibrated_sculk_sensor"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "minecraft:sculk_sensor"
+      "id": "minecraft:sculk_sensor"
     },
     {
       "count": 3,
-      "item": "minecraft:amethyst_shard"
+      "id": "minecraft:amethyst_shard"
     }
   ]
 }

@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:stonecutter"
+      "id": "minecraft:stonecutter"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 3,
-      "item": "minecraft:stone"
+      "id": "minecraft:stone"
     },
     {
       "count": 1,
-      "item": "minecraft:iron_ingot"
+      "id": "minecraft:iron_ingot"
     }
   ]
 }

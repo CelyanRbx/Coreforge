@@ -2,14 +2,14 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:furnace"
+      "id": "minecraft:furnace"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 8,
-      "item": "minecraft:cobblestone"
+      "id": "minecraft:cobblestone"
     }
   ]
 }

@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:fletching_table"
+      "id": "minecraft:fletching_table"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 2,
-      "item": "minecraft:flint"
+      "id": "minecraft:flint"
     },
     {
       "count": 4,
-      "item": "minecraft:birch_planks"
+      "id": "minecraft:birch_planks"
     }
   ]
 }

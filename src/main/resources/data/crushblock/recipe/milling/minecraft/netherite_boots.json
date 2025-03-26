@@ -2,14 +2,14 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:netherite_boots"
+      "id": "minecraft:netherite_boots"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 4,
-      "item": "minecraft:netherite_ingot"
+      "id": "minecraft:netherite_ingot"
     }
   ]
 }

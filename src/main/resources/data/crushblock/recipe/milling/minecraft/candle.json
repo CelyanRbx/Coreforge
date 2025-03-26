@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:candle"
+      "id": "minecraft:candle"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "minecraft:honeycomb"
+      "id": "minecraft:honeycomb"
     },
     {
       "count": 1,
-      "item": "minecraft:string"
+      "id": "minecraft:string"
     }
   ]
 }

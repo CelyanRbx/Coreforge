@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:hopper"
+      "id": "minecraft:hopper"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 5,
-      "item": "minecraft:iron_ingot"
+      "id": "minecraft:iron_ingot"
     },
     {
       "count": 1,
-      "item": "minecraft:chest"
+      "id": "minecraft:chest"
     }
   ]
 }

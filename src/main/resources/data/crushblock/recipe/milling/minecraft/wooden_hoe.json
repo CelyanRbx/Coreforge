@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:wooden_hoe"
+      "id": "minecraft:wooden_hoe"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 2,
-      "item": "minecraft:oak_planks"
+      "id": "minecraft:oak_planks"
     },
     {
       "count": 2,
-      "item": "minecraft:stick"
+      "id": "minecraft:stick"
     }
   ]
 }

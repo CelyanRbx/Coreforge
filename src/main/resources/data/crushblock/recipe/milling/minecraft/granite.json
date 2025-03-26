@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:granite"
+      "id": "minecraft:granite"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "minecraft:diorite"
+      "id": "minecraft:diorite"
     },
     {
       "count": 1,
-      "item": "minecraft:quartz"
+      "id": "minecraft:quartz"
     }
   ]
 }

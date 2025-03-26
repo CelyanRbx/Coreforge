@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:lime_bed"
+      "id": "minecraft:lime_bed"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 3,
-      "item": "minecraft:oak_planks"
+      "id": "minecraft:oak_planks"
     },
     {
       "count": 3,
-      "item": "minecraft:lime_wool"
+      "id": "minecraft:lime_wool"
     }
   ]
 }

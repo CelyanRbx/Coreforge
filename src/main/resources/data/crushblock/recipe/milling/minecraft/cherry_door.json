@@ -2,14 +2,14 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:cherry_door"
+      "id": "minecraft:cherry_door"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 6,
-      "item": "minecraft:cherry_planks"
+      "id": "minecraft:cherry_planks"
     }
   ]
 }

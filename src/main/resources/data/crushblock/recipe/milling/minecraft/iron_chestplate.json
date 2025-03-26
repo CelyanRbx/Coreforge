@@ -2,14 +2,14 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:iron_helmet"
+      "id": "minecraft:iron_helmet"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 8,
-      "item": "minecraft:iron_ingot"
+      "id": "minecraft:iron_ingot"
     }
   ]
 }

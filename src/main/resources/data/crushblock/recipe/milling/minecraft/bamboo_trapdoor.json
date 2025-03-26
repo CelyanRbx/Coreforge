@@ -2,14 +2,14 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:bamboo_trapdoor"
+      "id": "minecraft:bamboo_trapdoor"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 6,
-      "item": "minecraft:bamboo_planks"
+      "id": "minecraft:bamboo_planks"
     }
   ]
 }

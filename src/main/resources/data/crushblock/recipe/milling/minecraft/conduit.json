@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:conduit"
+      "id": "minecraft:conduit"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "minecraft:heart_of_the_sea"
+      "id": "minecraft:heart_of_the_sea"
     },
     {
       "count": 8,
-      "item": "minecraft:nautilus_shell"
+      "id": "minecraft:nautilus_shell"
     }
   ]
 }

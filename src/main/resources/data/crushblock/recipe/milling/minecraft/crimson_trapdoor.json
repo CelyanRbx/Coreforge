@@ -2,14 +2,14 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:crimson_trapdoor"
+      "id": "minecraft:crimson_trapdoor"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 6,
-      "item": "minecraft:crimson_planks"
+      "id": "minecraft:crimson_planks"
     }
   ]
 }

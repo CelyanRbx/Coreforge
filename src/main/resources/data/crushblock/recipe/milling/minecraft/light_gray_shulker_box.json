@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:light_gray_shulker_box"
+      "id": "minecraft:light_gray_shulker_box"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "minecraft:chest"
+      "id": "minecraft:chest"
     },
     {
       "count": 2,
-      "item": "minecraft:shulker_shell"
+      "id": "minecraft:shulker_shell"
     }
   ]
 }

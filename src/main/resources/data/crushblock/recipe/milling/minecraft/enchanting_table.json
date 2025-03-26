@@ -2,22 +2,22 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:enchanting_table"
+      "id": "minecraft:enchanting_table"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 4,
-      "item": "minecraft:obsidian"
+      "id": "minecraft:obsidian"
     },
     {
       "count": 2,
-      "item": "minecraft:diamond"
+      "id": "minecraft:diamond"
     },
     {
       "count": 1,
-      "item": "minecraft:book"
+      "id": "minecraft:book"
     }
 
   ]

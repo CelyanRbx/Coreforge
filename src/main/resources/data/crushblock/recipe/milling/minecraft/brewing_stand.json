@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:brewing_stand"
+      "id": "minecraft:brewing_stand"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "minecraft:blaze_rod"
+      "i": "minecraft:blaze_rod"
     },
     {
       "count": 3,
-      "item": "minecraft:stone"
+      "id": "minecraft:stone"
     }
   ]
 }

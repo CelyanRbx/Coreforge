@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:diamond_sword"
+      "id": "minecraft:diamond_sword"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 2,
-      "item": "minecraft:diamond"
+      "id": "minecraft:diamond"
     },
     {
       "count": 1,
-      "item": "minecraft:stick"
+      "id": "minecraft:stick"
     }
   ]
 }

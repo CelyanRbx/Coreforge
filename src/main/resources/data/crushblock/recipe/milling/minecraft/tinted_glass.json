@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:tinted_glass"
+      "id": "minecraft:tinted_glass"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "minecraft:glass"
+      "id": "minecraft:glass"
     },
     {
       "count": 4,
-      "item": "minecraft:amethyst_shard"
+      "id": "minecraft:amethyst_shard"
     }
   ]
 }

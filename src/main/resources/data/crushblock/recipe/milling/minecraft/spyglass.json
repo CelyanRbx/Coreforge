@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:spyglass"
+      "id": "minecraft:spyglass"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "minecraft:amethyst_shard"
+      "id": "minecraft:amethyst_shard"
     },
     {
       "count": 2,
-      "item": "minecraft:copper_ingot"
+      "id": "minecraft:copper_ingot"
     }
   ]
 }

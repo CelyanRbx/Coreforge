@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:bow"
+      "id": "minecraft:bow"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 3,
-      "item": "minecraft:string"
+      "id": "minecraft:string"
     },
     {
       "count": 3,
-      "item": "minecraft:stick"
+      "id": "minecraft:stick"
     }
   ]
 }

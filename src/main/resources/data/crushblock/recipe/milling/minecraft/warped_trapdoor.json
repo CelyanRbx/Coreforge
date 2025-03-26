@@ -2,14 +2,14 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:warped_trapdoor"
+      "id": "minecraft:warped_trapdoor"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 6,
-      "item": "minecraft:warped_planks"
+      "id": "minecraft:warped_planks"
     }
   ]
 }

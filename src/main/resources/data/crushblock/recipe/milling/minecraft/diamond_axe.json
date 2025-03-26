@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:diamond_axe"
+      "id": "minecraft:diamond_axe"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 3,
-      "item": "minecraft:diamond"
+      "id": "minecraft:diamond"
     },
     {
       "count": 2,
-      "item": "minecraft:stick"
+      "id": "minecraft:stick"
     }
   ]
 }

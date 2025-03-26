@@ -2,14 +2,14 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:netherite_leggings"
+      "id": "minecraft:netherite_leggings"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 7,
-      "item": "minecraft:netherite_ingot"
+      "id": "minecraft:netherite_ingot"
     }
   ]
 }

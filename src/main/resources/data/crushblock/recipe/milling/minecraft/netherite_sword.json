@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:netherite_sword"
+      "id": "minecraft:netherite_sword"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 2,
-      "item": "minecraft:netherite_ingot"
+      "id": "minecraft:netherite_ingot"
     },
     {
       "count": 1,
-      "item": "minecraft:stick"
+      "id": "minecraft:stick"
     }
   ]
 }

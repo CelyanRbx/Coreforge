@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:chain"
+      "id": "minecraft:chain"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "minecraft:iron_ingot"
+      "id": "minecraft:iron_ingot"
     },
     {
       "count": 2,
-      "item": "minecraft:iron_nugget"
+      "id": "minecraft:iron_nugget"
     }
   ]
 }

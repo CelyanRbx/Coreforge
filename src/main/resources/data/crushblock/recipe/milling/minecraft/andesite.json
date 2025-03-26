@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:andesite"
+      "id": "minecraft:andesite"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "minecraft:diorite"
+      "id": "minecraft:diorite"
     },
     {
       "count": 1,
-      "item": "minecraft:cobblestone"
+      "id": "minecraft:cobblestone"
     }
   ]
 }

@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:ender_chest"
+      "id": "minecraft:ender_chest"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 8,
-      "item": "minecraft:obsidian"
+      "id": "minecraft:obsidian"
     },
     {
       "count": 1,
-      "item": "minecraft:ender_eye"
+      "id": "minecraft:ender_eye"
     }
   ]
 }

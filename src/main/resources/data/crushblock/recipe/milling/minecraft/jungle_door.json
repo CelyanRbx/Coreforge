@@ -2,14 +2,14 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:jungle_door"
+      "id": "minecraft:jungle_door"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 6,
-      "item": "minecraft:jungle_planks"
+      "id": "minecraft:jungle_planks"
     }
   ]
 }

@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:green_bed"
+      "id": "minecraft:green_bed"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 3,
-      "item": "minecraft:oak_planks"
+      "id": "minecraft:oak_planks"
     },
     {
       "count": 3,
-      "item": "minecraft:green_wool"
+      "id": "minecraft:green_wool"
     }
   ]
 }

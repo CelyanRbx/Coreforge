@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:target"
+      "id": "minecraft:target"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 1,
-      "item": "minecraft:hay_block"
+      "id": "minecraft:hay_block"
     },
     {
       "count": 4,
-      "item": "minecraft:redstone"
+      "id": "minecraft:redstone"
     }
   ]
 }

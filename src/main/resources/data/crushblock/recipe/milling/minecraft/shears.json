@@ -2,14 +2,14 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:shears"
+      "id": "minecraft:shears"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 2,
-      "item": "minecraft:iron_ingot"
+      "id": "minecraft:iron_ingot"
     }
   ]
 }

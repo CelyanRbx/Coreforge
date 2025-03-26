@@ -2,18 +2,18 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "item": "minecraft:magenta_bed"
+      "id": "minecraft:magenta_bed"
     }
   ],
   "processingTime": 400,
   "results": [
     {
       "count": 3,
-      "item": "minecraft:oak_planks"
+      "id": "minecraft:oak_planks"
     },
     {
       "count": 3,
-      "item": "minecraft:magenta_wool"
+      "id": "minecraft:magenta_wool"
     }
   ]
 }
